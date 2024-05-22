@@ -1,0 +1,15 @@
+{
+    "name": "monique/command",
+    "autoload": {
+        "psr-4": {
+            "Monique\\Command\\": "src/Command"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monique",
+            "email": "monique.porciuncula@agilize.com.br"
+        }
+    ],
+    "require": {}
+}
